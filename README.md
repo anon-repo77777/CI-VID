@@ -345,24 +345,7 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="example_viewing/readme_img/003.jpg" alt="CI-VID Example" width="400"/>
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/003.jsonl"> Download Captions</a>
-      </small>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="example_viewing/readme_img/044.jpg" alt="CI-VID Example" width="400"/>
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/044.jsonl"> Download Captions</a>
-      </small>
-    </td>
+
   </tr>
   <tr>
     <td>
@@ -377,6 +360,14 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
   <tr>
     <td>
       <img src="example_viewing/readme_img/394.jpg" alt="CI-VID Example" width="400"/>
+    </td>
+    <td>
+      <img src="example_viewing/readme_img/812.jpg" alt="CI-VID Example" width="400"/>
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <small>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/812.jsonl"> Download Captions</a>
+      </small>
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
@@ -394,15 +385,26 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
       </small>
     </td>
   </tr>
+    <td>
+     <img src="example_viewing/readme_img/003.jpg" alt="CI-VID Example" width="400"/>
+   </td>
+   <td style="vertical-align: top; padding-left: 15px;">
+     <small>
+       🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/003.jsonl"> Download Captions</a>
+     </small>
+   </td>
+  </tr>
   <tr>
     <td>
-      <img src="example_viewing/readme_img/812.jpg" alt="CI-VID Example" width="400"/>
+      <img src="example_viewing/readme_img/044.jpg" alt="CI-VID Example" width="400"/>
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/812.jsonl"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/044.jsonl"> Download Captions</a>
       </small>
     </td>
+   
+  <tr>
   </tr>
 
 
