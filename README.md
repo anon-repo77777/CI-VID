@@ -274,11 +274,13 @@ We use the same prompts as human evaluation perform a VLM-based evaluation.
 
 * 📁 **Provided Files**
   * <small>`evaluation/similarity_evaluation/object_similarity_data.jsonl` → *Captions and first clips for similarity-based evaluation.*</small>  
-  * <small>`evaluation/similarity_evaluation/object_similarity_evaluation.py` → Code for computing similarity evaluation.</small> 
+  * <small>`evaluation/similarity_evaluation/object_similarity_evaluation.py` → Code for computing similarity evaluation.</small>
+  * <small>`object_similarity_data.jsonl` → Data for model inference. [💡download](https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/object_similarity_data.jsonl) </small>  
   * <small>`middle_frames.zip` → *Ground-truth middle frames for similarity evaluation. [💡download](https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/middle_frames_for_sim_eval.zip) </small>  
-  * <small>`rectangles.zip` → *Manually filtered object bounding boxes on ground-truth video frames for similarity evaluation. [💡download](https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/rectangles.zip)  </small>  
+  * <small>`rectangles.zip` → *Ground-truth entity boxes for similarity evaluation. [💡download](https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/rectangles.zip)  </small>  
   * <small>`CI-VID_results.zip` → *Visualizations of results from the CI-VID fine-tuned model. [💡download](https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/CoI-VID_sim_results.zip)  </small>  
   * <small>`observation_for_object_similarity_data.zip` → *Visual observation files for similarity-based evaluation data. [💡download](https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/observation_for_object_similarity_data.zip)  </small>  
+  * <small>`sim_eval_img_package.zip` → Entity boxes data with imgs. [💡download](https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/sim_eval_boxes_data_package.zip) </small>  
 
 ---
 
