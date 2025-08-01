@@ -334,6 +334,7 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
       </small>
     </td>
   </tr>
+ 
   <tr>
     <td>
       <img src="example_viewing/readme_img/002.jpg" alt="CI-VID Example" width="400"/>
@@ -344,37 +345,7 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
       </small>
     </td>
   </tr>
-  <tr>
-
-  </tr>
-  <tr>
-    <td>
-      <img src="example_viewing/readme_img/234.jpg" alt="CI-VID Example" width="400"/>
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/234.jsonl"> Download Captions</a>
-      </small>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="example_viewing/readme_img/394.jpg" alt="CI-VID Example" width="400"/>
-    </td>
-    <td>
-      <img src="example_viewing/readme_img/812.jpg" alt="CI-VID Example" width="400"/>
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/812.jsonl"> Download Captions</a>
-      </small>
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/394.jsonl"> Download Captions</a>
-      </small>
-    </td>
-  </tr>
+  
   <tr>
     <td>
       <img src="example_viewing/readme_img/672.jpg" alt="CI-VID Example" width="400"/>
@@ -385,16 +356,42 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
       </small>
     </td>
   </tr>
-    <td>
-     <img src="example_viewing/readme_img/003.jpg" alt="CI-VID Example" width="400"/>
-   </td>
-   <td style="vertical-align: top; padding-left: 15px;">
-     <small>
-       🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/003.jsonl"> Download Captions</a>
-     </small>
-   </td>
-  </tr>
+  
   <tr>
+    <td>
+      <img src="example_viewing/readme_img/234.jpg" alt="CI-VID Example" width="400"/>
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <small>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/234.jsonl"> Download Captions</a>
+      </small>
+    </td>
+  </tr>
+  
+
+  <tr>
+    <td>
+      <img src="example_viewing/readme_img/394.jpg" alt="CI-VID Example" width="400"/>
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <small>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/394.jsonl"> Download Captions</a>
+      </small>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <img src="example_viewing/readme_img/812.jpg" alt="CI-VID Example" width="400"/>
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <small>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/812.jsonl"> Download Captions</a>
+      </small>
+    </td>
+  </tr>
+
+   <tr>
     <td>
       <img src="example_viewing/readme_img/044.jpg" alt="CI-VID Example" width="400"/>
     </td>
@@ -403,11 +400,19 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
         🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/044.jsonl"> Download Captions</a>
       </small>
     </td>
-   
-  <tr>
   </tr>
-
-
+  
+  <tr>
+    <td>
+      <img src="example_viewing/readme_img/003.jpg" alt="CI-VID Example" width="400"/>
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <small>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/003.jsonl"> Download Captions</a>
+      </small>
+    </td>
+  </tr>
+  
 </table>
 
 ### Research-Only License
