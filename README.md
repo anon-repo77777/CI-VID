@@ -118,21 +118,21 @@ This part of the repository contains samples extracted from CI-VID to better ill
   </tr>
   <tr>
     <td>
-      <img src="example_viewing/readme_img/044_sample_clips.jpg" alt="CI-VID Example" width="400"/>
+      <img src="example_viewing/readme_img/044.jpg" alt="CI-VID Example" width="400"/>
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/044_caption.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/044.jsonl"> Download Captions</a>
       </small>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="example_viewing/readme_img/025_sample_clips.jpg" alt="CI-VID Example" width="400"/>
+      <img src="example_viewing/readme_img/025.jpg" alt="CI-VID Example" width="400"/>
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/025_caption.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/025.jsonl"> Download Captions</a>
       </small>
     </td>
   </tr>
