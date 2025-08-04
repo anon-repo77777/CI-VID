@@ -18,21 +18,21 @@ This part of the repository contains samples extracted from CI-VID to better ill
 <table>
   <tr>
     <td>
-      <img src="example_viewing/readme_img/003_sample_clips.jpg" alt="CI-VID Example" width="400"/>
+      <img src="example_viewing/readme_img/672.jpg" alt="CI-VID Example" width="400"/>
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/003_caption.txt">Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/672.jsonl">Download Captions</a>
       </small>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="example_viewing/readme_img/006_sample_clips.jpg" alt="CI-VID Example" width="400"/>
+      <img src="example_viewing/readme_img/067_sample_clips.jpg" alt="CI-VID Example" width="400"/>
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/006_caption.txt">Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/067_caption.txt">Download Captions</a>
       </small>
     </td>
   </tr>
@@ -58,61 +58,31 @@ This part of the repository contains samples extracted from CI-VID to better ill
   </tr>
   <tr>
     <td>
-      <img src="example_viewing/readme_img/017_sample_clips.jpg" alt="CI-VID Example" width="400"/>
+      <img src="example_viewing/readme_img/172.jpg" alt="CI-VID Example" width="400"/>
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/017_caption.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/172.jsonl"> Download Captions</a>
       </small>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="example_viewing/readme_img/023_sample_clips.jpg" alt="CI-VID Example" width="400"/>
+      <img src="example_viewing/readme_img/055.jpg" alt="CI-VID Example" width="400"/>
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/023_caption.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/055.jsonl"> Download Captions</a>
       </small>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="example_viewing/readme_img/064_sample_clips.jpg" alt="CI-VID Example" width="400"/>
+      <img src="example_viewing/readme_img/003_sample_clips.jpg" alt="CI-VID Example" width="400"/>
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/064_caption.txt"> Download Captions</a>
-      </small>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="example_viewing/readme_img/067_sample_clips.jpg" alt="CI-VID Example" width="400"/>
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/067_caption.txt"> Download Captions</a>
-      </small>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="example_viewing/readme_img/109_sample_clips.jpg" alt="CI-VID Example" width="400"/>
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/109_caption.txt"> Download Captions</a>
-      </small>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="example_viewing/readme_img/116_sample_clips.jpg" alt="CI-VID Example" width="400"/>
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/116_caption.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/003_caption.txt"> Download Captions</a>
       </small>
     </td>
   </tr>
@@ -128,11 +98,11 @@ This part of the repository contains samples extracted from CI-VID to better ill
   </tr>
   <tr>
     <td>
-      <img src="example_viewing/readme_img/077_sample_clips.jpg" alt="CI-VID Example" width="400"/>
+      <img src="example_viewing/readme_img/109_sample_clips.jpg" alt="CI-VID Example" width="400"/>
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/077_caption.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/109_caption.txt"> Download Captions</a>
       </small>
     </td>
   </tr>
@@ -143,6 +113,26 @@ This part of the repository contains samples extracted from CI-VID to better ill
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
         🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/096_caption.txt"> Download Captions</a>
+      </small>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="example_viewing/readme_img/044_sample_clips.jpg" alt="CI-VID Example" width="400"/>
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <small>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/044_caption.txt"> Download Captions</a>
+      </small>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="example_viewing/readme_img/025_sample_clips.jpg" alt="CI-VID Example" width="400"/>
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <small>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/025_caption.txt"> Download Captions</a>
       </small>
     </td>
   </tr>
