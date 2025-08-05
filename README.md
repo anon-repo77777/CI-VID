@@ -184,7 +184,7 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
 <table>
   <tr>
     <td>
-<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/130.jpg" border=0 width=70%>
+<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/130.jpg" border=0 width=100%>
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
@@ -194,7 +194,7 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
   </tr>
   <tr>
     <td>
-<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/358.jpg" border=0 width=70%>
+<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/358.jpg" border=0 width=100%>
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
@@ -204,7 +204,7 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
   </tr>
   <tr>
     <td>
-<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/093.jpg" border=0 width=70%>
+<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/093.jpg" border=0 width=100%>
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
@@ -214,7 +214,7 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
   </tr>
   <tr>
     <td>
-<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/137.jpg" border=0 width=70%>
+<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/137.jpg" border=0 width=100%>
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
@@ -224,7 +224,7 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
   </tr>
   <tr>
     <td>
-<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/181.jpg" border=0 width=70%>
+<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/181.jpg" border=0 width=100%>
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
@@ -234,7 +234,7 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
   </tr>
   <tr>
     <td>
-<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/012.jpg" border=0 width=70%>
+<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/012.jpg" border=0 width=100%>
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
