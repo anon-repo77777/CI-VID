@@ -180,13 +180,69 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
 - **Models Compared**: Baseline (trained on Emu3) vs Fine-tuned (further finetuned on CI-VID).
 
 - **Examples**:
-<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/130.jpg" border=0 width=70%>
-<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/358.jpg" border=0 width=70%>
-<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/093.jpg" border=0 width=70%>
-<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/137.jpg" border=0 width=70%>
-<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/181.jpg" border=0 width=70%>
-<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/012.jpg" border=0 width=70%>
 
+<table>
+  <tr>
+    <td>
+<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/130.jpg" border=0 width=70%>
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <small>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/672.jsonl">Download Captions</a>
+      </small>
+    </td>
+  </tr>
+  <tr>
+    <td>
+<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/358.jpg" border=0 width=70%>
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <small>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/067_caption.txt">Download Captions</a>
+      </small>
+    </td>
+  </tr>
+  <tr>
+    <td>
+<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/093.jpg" border=0 width=70%>
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <small>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/001_caption.txt"> Download Captions</a>
+      </small>
+    </td>
+  </tr>
+  <tr>
+    <td>
+<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/137.jpg" border=0 width=70%>
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <small>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/020_caption.txt"> Download Captions</a>
+      </small>
+    </td>
+  </tr>
+  <tr>
+    <td>
+<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/181.jpg" border=0 width=70%>
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <small>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/172.jsonl"> Download Captions</a>
+      </small>
+    </td>
+  </tr>
+  <tr>
+    <td>
+<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/012.jpg" border=0 width=70%>
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <small>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/055.jsonl"> Download Captions</a>
+      </small>
+    </td>
+  </tr>
+</table>
 
 
 - **Procedure**: 3 professional annotators compare model outputs across:
