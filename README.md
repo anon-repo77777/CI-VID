@@ -22,7 +22,7 @@ This part of the repository contains samples extracted from CI-VID to better ill
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/672.txt">Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/672.txt">Captions</a>
       </small>
     </td>
   </tr>
@@ -32,7 +32,7 @@ This part of the repository contains samples extracted from CI-VID to better ill
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/067_caption.txt">Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/067_caption.txt"> Captions</a>
       </small>
     </td>
   </tr>
@@ -42,7 +42,7 @@ This part of the repository contains samples extracted from CI-VID to better ill
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/001_caption.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/001_caption.txt">  Captions</a>
       </small>
     </td>
   </tr>
@@ -52,7 +52,7 @@ This part of the repository contains samples extracted from CI-VID to better ill
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/020_caption.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/020_caption.txt">  Captions</a>
       </small>
     </td>
   </tr>
@@ -62,7 +62,7 @@ This part of the repository contains samples extracted from CI-VID to better ill
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/172.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/172.txt">  Captions</a>
       </small>
     </td>
   </tr>
@@ -72,7 +72,7 @@ This part of the repository contains samples extracted from CI-VID to better ill
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/055.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/055.txt">  Captions</a>
       </small>
     </td>
   </tr>
@@ -82,7 +82,7 @@ This part of the repository contains samples extracted from CI-VID to better ill
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/003_caption.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/003_caption.txt">  Captions</a>
       </small>
     </td>
   </tr>
@@ -92,7 +92,7 @@ This part of the repository contains samples extracted from CI-VID to better ill
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/076_caption.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/076_caption.txt">  Captions</a>
       </small>
     </td>
   </tr>
@@ -102,7 +102,7 @@ This part of the repository contains samples extracted from CI-VID to better ill
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/109_caption.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/109_caption.txt">  Captions</a>
       </small>
     </td>
   </tr>
@@ -112,7 +112,7 @@ This part of the repository contains samples extracted from CI-VID to better ill
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/096_caption.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/096_caption.txt">  Captions</a>
       </small>
     </td>
   </tr>
@@ -122,7 +122,7 @@ This part of the repository contains samples extracted from CI-VID to better ill
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/044.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/044.txt">  Captions</a>
       </small>
     </td>
   </tr>
@@ -132,7 +132,7 @@ This part of the repository contains samples extracted from CI-VID to better ill
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/025.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/025.txt">  Captions</a>
       </small>
     </td>
   </tr>
@@ -188,7 +188,7 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/130_test.txt">Download Text Prompt</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/130_test.txt"> Text Prompt</a>
       </small>
     </td>
   </tr>
@@ -198,7 +198,7 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/358_test.txt">Download Text Prompt</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/358_test.txt"> Text Prompt</a>
       </small>
     </td>
   </tr>
@@ -208,7 +208,7 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/093_test.txt"> Download Text Prompt</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/093_test.txt">  Text Prompt</a>
       </small>
     </td>
   </tr>
@@ -218,7 +218,7 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/137_test.txt"> Download Text Prompt</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/137_test.txt">  Text Prompt</a>
       </small>
     </td>
   </tr>
@@ -228,7 +228,7 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/181_test.txt"> Download Text Prompt</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/181_test.txt">  Text Prompt</a>
       </small>
     </td>
   </tr>
@@ -238,7 +238,7 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/012_test.txt"> Download Text Prompt</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/012_test.txt">  Text Prompt</a>
       </small>
     </td>
   </tr>
@@ -363,7 +363,7 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/812.txt">Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/812.txt"> Captions</a>
       </small>
     </td>
   </tr>
@@ -373,7 +373,7 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/1099.txt">Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/1099.txt"> Captions</a>
       </small>
     </td>
   </tr>
@@ -383,7 +383,7 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/969.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/969.txt">  Captions</a>
       </small>
     </td>
   </tr>
@@ -394,7 +394,7 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/970.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/970.txt">  Captions</a>
       </small>
     </td>
   </tr>
@@ -405,7 +405,7 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/656.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/656.txt">  Captions</a>
       </small>
     </td>
   </tr>
@@ -416,7 +416,7 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/701.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/701.txt">  Captions</a>
       </small>
     </td>
   </tr>
@@ -428,7 +428,7 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/465.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/465.txt">  Captions</a>
       </small>
     </td>
   </tr>
@@ -439,7 +439,7 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/666.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/666.txt">  Captions</a>
       </small>
     </td>
   </tr>
@@ -450,7 +450,7 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/394.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/394.txt">  Captions</a>
       </small>
     </td>
   </tr>
@@ -461,7 +461,7 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/373.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/373.txt">  Captions</a>
       </small>
     </td>
   </tr>
@@ -472,7 +472,7 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/116.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/116.txt">  Captions</a>
       </small>
     </td>
   </tr>
@@ -483,7 +483,7 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/075.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/075.txt">  Captions</a>
       </small>
     </td>
 
@@ -493,7 +493,7 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/002.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/002.txt">  Captions</a>
       </small>
     </td>
     
