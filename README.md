@@ -188,7 +188,7 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/672.jsonl">Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/130_test.jsonl">Download Text Prompt</a>
       </small>
     </td>
   </tr>
@@ -198,7 +198,7 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/067_caption.txt">Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/358_test.jsonl">Download Text Prompt</a>
       </small>
     </td>
   </tr>
@@ -208,7 +208,7 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/001_caption.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/093_test.jsonl"> Download Text Prompt</a>
       </small>
     </td>
   </tr>
@@ -218,7 +218,7 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/020_caption.txt"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/137_test.jsonl"> Download Text Prompt</a>
       </small>
     </td>
   </tr>
@@ -228,7 +228,7 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/172.jsonl"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/181_test.jsonl"> Download Text Prompt</a>
       </small>
     </td>
   </tr>
@@ -238,7 +238,7 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <small>
-        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/055.jsonl"> Download Captions</a>
+        🔗 <a href="https://flagchat.ks3-cn-beijing.ksyuncs.com/ymju/CI_VID_captions/012_test.jsonl"> Download Text Prompt</a>
       </small>
     </td>
   </tr>
